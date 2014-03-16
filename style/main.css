@@ -392,7 +392,7 @@ hr {
 }
 @media screen and (max-width: 520px) {
   .tile.tile-128 .tile-inner {
-    font-size: 25px;
+    font-size: 15px;
   }
 }
 .tile.tile-256 .tile-inner {
@@ -403,7 +403,7 @@ hr {
 }
 @media screen and (max-width: 520px) {
   .tile.tile-256 .tile-inner {
-    font-size: 25px;
+    font-size: 15px;
   }
 }
 .tile.tile-512 .tile-inner {
@@ -414,7 +414,7 @@ hr {
 }
 @media screen and (max-width: 520px) {
   .tile.tile-512 .tile-inner {
-    font-size: 25px;
+    font-size: 15px;
   }
 }
 .tile.tile-1024 .tile-inner {
@@ -781,7 +781,7 @@ hr {
     transform: translate(142px, 142px);
   }
   .tile .tile-inner {
-    font-size: 25px;
+    font-size: 15px;
   }
   .game-message p {
     font-size: 30px !important;
