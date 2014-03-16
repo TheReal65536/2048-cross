@@ -572,14 +572,14 @@ hr {
   }
   body {
     margin: 20px 0;
-    padding: 0 20px;
+    padding: 0 2px;
   }
   h1.title {
     font-size: 27px;
     margin-top: 15px;
   }
   .container {
-    width: 372px;
+    width: 344px;
     margin: 0 auto;
   }
   .score-container, .best-container {
@@ -591,8 +591,8 @@ hr {
     margin-bottom: 10px;
   }
   .outer-container {
-    height: 372px;
-    width: 372px;
+    height: 344px;
+    width: 344px;
   }
   .game-container {
     position: absolute;
